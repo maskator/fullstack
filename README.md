@@ -1,8 +1,10 @@
 github repository
 [Link](https://github.com/maskator/fullstack)
 
+fullstack module 2 exercise [Link](https://maskator.github.io/fullstack/module2/)
 
-fullstack module 2 index
+
+fullstack module 2 index 
 [Link](https://github.com/maskator/fullstack/blob/master/module2/index.html)
 
 
