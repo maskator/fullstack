@@ -7,5 +7,4 @@ fullstack module 2 index
 
 
 fullstack module 2 css
-
 [Link](https://github.com/maskator/fullstack/blob/master/module2/css/style.css)
