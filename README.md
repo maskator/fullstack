@@ -6,5 +6,4 @@ fullstack module 2 index
 [Link](https://github.com/maskator/fullstack/blob/master/module2/index.html)
 
 
-fullstack module 2 css
-[Link](https://github.com/maskator/fullstack/blob/master/module2/css/style.css)
+fullstack module 2 css [Link](https://github.com/maskator/fullstack/blob/master/module2/css/style.css)
