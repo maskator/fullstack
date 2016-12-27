@@ -17,4 +17,4 @@ fullstack module 3 index
 [Link](https://github.com/maskator/fullstack/blob/master/module3/index.html)
 
 
-fullstack module 3 css [Link](https://github.com/maskator/fullstack/blob/master/module3/css/style.css)
+fullstack module 3 css [Link](https://github.com/maskator/fullstack/blob/master/module3/css/styles.css)
