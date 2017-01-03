@@ -24,5 +24,11 @@ fullstack module 4 exercise [Link](https://maskator.github.io/fullstack/module4/
 
 fullstack module 4 index 
 [Link](https://github.com/maskator/fullstack/blob/master/module4/index.html)
+fullstack module 4 script.js 
+[Link](https://github.com/maskator/fullstack/blob/master/module4/script.js)
+fullstack module 4 SpeakGoodBye.js 
+[Link](https://github.com/maskator/fullstack/blob/master/module4/SpeakGoodBye.js)
+fullstack module 4 SpeakHello.js
+[Link](https://github.com/maskator/fullstack/blob/master/module4/SpeakHello.js)
 
 
