@@ -29,5 +29,10 @@ fullstack module 4 SpeakGoodBye.js [Link](https://github.com/maskator/fullstack/
 
 fullstack module 4 SpeakHello.js[Link](https://github.com/maskator/fullstack/blob/master/module4/SpeakHello.js)
 
+fullstack module 5 exercise [Link](https://maskator.github.io/fullstack/module5/)
+
+fullstack module 5 index [Link](https://github.com/maskator/fullstack/blob/master/module5/index.html)
+
+fullstack module 5 script.js [Link](https://github.com/maskator/fullstack/blob/master/module5/js/script.js)
 
 
